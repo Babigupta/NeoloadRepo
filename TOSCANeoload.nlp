@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=TOSCANeoload
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.1.2
+project.is-open-test-settings-after-upload=false
+project.id=a537f93e-8804-4ff0-bd85-216b0ada95ae
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+product.version=8.1.2

@@ -1,0 +1,16 @@
+GET https://lkmdemoaut.accenture.com:443/TestMeApp/styles/custom.css HTTP/1.1
+Host: lkmdemoaut.accenture.com
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://lkmdemoaut.accenture.com/TestMeApp/loginhere.htm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=5ED433989432DA704339BB54AA8E7FBE; s_ecid=MCMID%7C30397999979445846391946755238417995236; AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg=-1124106680%7CMCIDTS%7C19314%7CMCMID%7C30397999979445846391946755238417995236%7CMCAAMLH-1669288241%7C12%7CMCAAMB-1669288241%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1668690641s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19234%7CvVersion%7C5.2.0; SIMI=eyJzdCI6MH0=; rtFa=0y7OfWEO57wUYfgYjcHcMI+Aa0Ej1Ot6hlXZuksOfgQmRTA3OTNEMzktMDkzOS00OTZELUIxMjktMTk4RUREOTE2RkVCIzEzMzE1Mjg4OTU1OTQyMzQ3OSM3RTY4ODFBMC04MEJDLTMwMDAtMEQyNy1CQjhCNjFBOEZDQ0QjQkFCSVRBLkJBQklUQSU0MEFDQ0VOVFVSRS5DT003EaVD58fl0HYyYlF7o6YBV6YaXwQ4D/h3ne2+yIL7Llq7u/viLq9WZNN5BPD0vegmo8pXYfhGKc1aFOxAoACtd4iOaYv/gGFBc7AOP01Vi9LWyKqW17hEboACj6yjCaUsB2YpZp7YZ/JJRtCjbFE51waOw0RpinfdfwwvqDRCx6qx5mJPkOsNlJQaLeH0vb6K8UdBl9TcSf+VyAMIsj4mm6e+NL+0Sn/K9w3zpW1OyFnLfvYC6UcXvTwO4IZgicrhIpJ56A2r+NXcsHspRATL+k41xhyhmTlb2V7TDe2dhGjlaGT/dDiyKtdrUlVeomvf1Xl4npFo8Q77ZJlO6zFkmwAAAA==
+
